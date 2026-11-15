@@ -26,3 +26,5 @@ Tasks are kept in memory only (a Python list), so they are lost when the program
 3. Click the **Run Python File** button (the triangle at the top right of the editor).
 4. Use the menu in the terminal: type `1`, `2`, `3` or `0` and press Enter.
 
+
+Tasks are stored in memory only and are lost when the program closes.
